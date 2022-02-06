@@ -87,7 +87,8 @@ function tirarTocando(){
 
 function definirAudio(){
 
-    let audio = elementoSelecionado.getElementsByClassName("audio")[0];
+    audio = elementoSelecionado.getElementsByClassName("audio")[0];
+
 }
 
 function mostrarTocando(){
